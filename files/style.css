@@ -82,11 +82,14 @@ img{ border:none;}
 .top .box .logo{
 	width: 210px;
 	height: 52px;
-	background-image: url(images/Just-logo.png);
+	background-image: url(images/logo11.png);
 	float: left;
 	margin: 30px 0 0 0;
 }
-.top .logo{ width:210px; height:52px; background-image:url(images/Just-logo.png)}
+.top .logo{
+	width:210px; height:52px;
+	background-image:url(images/logo11.png)
+}
 .top .topmenu0{ width:680px; height:61px; float:left; margin:50px 0 0 100px;}
 .has-scrolled {
 	-webkit-box-shadow: 0 0 9px 0 #b4b4b4;
